@@ -1,0 +1,159 @@
+{
+  "lastRunAt": "2025-05-15T18:55:00.773Z",
+  "users": {
+    "2": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4055": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4056": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4057": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4058": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4059": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4285": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4341": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4374": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4379": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4380": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4383": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4384": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4385": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4386": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4387": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4388": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4389": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4390": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4391": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4392": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4394": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4395": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4396": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4399": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4400": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4401": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4402": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4403": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4404": {
+      "processed": true,
+      "lastStatus": null
+    },
+    "4405": {
+      "processed": true,
+      "lastStatus": null
+    }
+  },
+  "orders": {
+    "4993": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5003": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5004": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5005": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5006": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5007": {
+      "processed": true,
+      "lastStatus": 1
+    },
+    "5008": {
+      "processed": true,
+      "lastStatus": 1
+    }
+  }
+}
