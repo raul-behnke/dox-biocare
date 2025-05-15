@@ -50,9 +50,9 @@ function detectEvents(records, stateStore) {
     else if (r.source_table === 'orders') {
       const isPending    = r.status_id === STATUS.AWAITING_PAYMENT;
       const createdAt    = new Date(r.created_at);
-      const threeMinsAgo = new Date(Date.now() - 3 * 60 * 1000);
+      const oneHourAgo   = new Date(Date.now() - 60 * 60 * 1000);
 
-      if (isPending && createdAt <= threeMinsAgo && !prev.processed) {
+      if (isPending && createdAt <= oneHourAgo && !prev.processed) {
         events.push({ type: 'cartAbandoned', payload: r });
       }
     }

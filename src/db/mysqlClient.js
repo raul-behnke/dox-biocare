@@ -202,7 +202,7 @@ async function fetchStaleCarts() {
     FROM orders o
     LEFT JOIN users u ON o.user_id = u.id
     WHERE o.status_id = ?
-      AND o.created_at <= DATE_SUB(NOW(), INTERVAL 3 MINUTE)
+      AND o.created_at <= DATE_SUB(NOW(), INTERVAL 1 HOUR)
     `,
     [STATUS.AWAITING_PAYMENT]
   );
